@@ -1,4 +1,4 @@
-# Awesome AI-Generated Image/Video Detection [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome AIGC Image/Video Detection [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
     <img src="icon.png" alt="Overview" width="100%">

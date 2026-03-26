@@ -112,6 +112,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 | [FakeXplain: AI-Generated Image Detection via Human-Aligned Grounded Reasoning](https://arxiv.org/pdf/2506.07045) | ICLR 2026 | `[I]` | Grounded Reasoning, Human-annotated Dataset | N/A |
 | [AlignGemini: Generalizable AI-Generated Image Detection Through Task-Model Alignment](https://arxiv.org/pdf/2512.06746) | Arxiv 2026 | `[I]` | Decoupling (Semantic & Pixel), AIGI-Now Dataset | N/A |
 | [Zoom-In to Sort AI-Generated Images Out](https://arxiv.org/pdf/2510.04225) | ICLR 2026 | `[I]` | Thinking with Images, MagniFake Dataset | N/A |
+| [AgentFoX: LLM Agent-Guided Fusion with eXplainability for AI-Generated Image Detection](https://arxiv.org/pdf/2603.23115) | Arxiv 2026 | `[I]` | Agentic framework | [Github](https://github.com/suncore946/AgentFoX) |
 | [EvoGuard: An Extensible Agentic RL-based Framework for Practical and Evolving AI-Generated Image Detection](https://arxiv.org/pdf/2603.17343) | Arxiv 2026 | `[I]` | Agentic Framework, Method Ensembling | N/A |
 | [GenVideoLens: Where LVLMs Fall Short in AI-Generated Video Detection?](https://arxiv.org/pdf/2603.18625) | Arxiv 2026 | `[V]` | GenVideoLens benchmark | N/A |
 | [Semantic Visual Anomaly Detection and Reasoning in AI-Generated Images](https://arxiv.org/pdf/2510.10231) | ICLR 2026 | `[I]` | Semantic Anomaly Reasoning, AnomReason Dataset | N/A |

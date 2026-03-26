@@ -5,7 +5,7 @@
 </p>
 
 A curated collection of the latest research and resources on AI-Generated Image and Video Detection. This repository encompasses datasets, benchmarks, research papers, and practical detection tools.
-
+ 
 
 🚀🚀🚀Contributions are welcome! If you find any missing papers, datasets, or tools, feel free to open an issue or submit a pull request.
 

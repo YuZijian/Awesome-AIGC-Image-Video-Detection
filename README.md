@@ -57,6 +57,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 | MintVid | [VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning](https://arxiv.org/pdf/2602.08828) | Arxiv 2026 | `[V]` | OpenVid, VFHQ, HDTF, TikTok | Jimeng3.0-Pro, Seedance, Kling2.5-Turbo, Sora2, TikTok, Youtube, etc.  | `Au` | 4K | [MintVid](https://www.modelscope.cn/datasets/EricTanh/MintVid) |
 | AIGVDBench | [Your One-Stop Solution for AI-Generated Video Detection](https://arxiv.org/pdf/2601.11035) | CVPR 2026 | `[V]` | OpenVid-HD | 31 generation models | `Au` | 440k | [AIGVDBench](https://huggingface.co/datasets/AIGVDBench/AIGVDBench) |
 | HydraFake | [Veritas: Generalizable Deepfake Detection via Pattern-Aware Reasoning](https://arxiv.org/pdf/2508.21048) | ICLR 2026(Oral) | `[I]` | FFHQ, VFHQ, CelebAHQ, FF++, etc. | GPT-4o, HailuoAI, ICLight, InfiniteYou, etc. | `Au`, `Ex` | 100K | [HydraFake](https://www.modelscope.cn/datasets/EricTanh/HydraFake) |
+| BR-Gen | [Zooming In on Fakes: A Novel Dataset for Localized AI-Generated Image Detection with Forgery Amplification Approach](https://arxiv.org/abs/2504.11922) | AAAI 2026 | `[I]` |  |  | `Au`, `Lo` | 150K | [BR-Gen](https://github.com/clpbc/BR-Gen) |
 | HiResolution | [No Pixel Left Behind: A Detail-Preserving Architecture for Robust High-Resolution AI-Generated Image Detection](https://arxiv.org/pdf/2508.17346) | ICLR 2026 | `[I]` |  |  | `Au` | 50K | [HiRes-50K](https://huggingface.co/datasets/Mu437/HiRes-50K) |
 | AIGI-Now | [AlignGemini: Generalizable AI-Generated Image Detection Through Task-Model Alignment](https://arxiv.org/abs/2512.06746) | Arxiv 2026 | `[I]` | COCO | Nano Banana, GPT-4o, Jimeng, Kling, Minimax, etc. | `Au` | 18K | [AIGI-Now](https://huggingface.co/datasets/Gaffeyzz/AIGI-Now) |
 | RealChain | [Beyond Artifacts: Real-Centric Envelope Modeling for Reliable AI-Generated Image Detection](https://arxiv.org/pdf/2512.20937) | Arxiv 2026 | `[I]` |  |  | `Au` | 14K | [RealChain](https://github.com/handsome-rich/REM) |
@@ -109,6 +110,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 | --- | --- | --- | --- | --- |
 | [VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning](https://arxiv.org/pdf/2602.08828) | Arxiv 2026 | `[V]` | Perception Pretext RL, Fact-based Reasoning, MintVid Dataset | [GitHub](https://github.com/EricTan7/VideoVeritas) |
 | [Veritas: Generalizable deepfake detection via pattern-aware reasoning](https://arxiv.org/pdf/2508.21048) | ICLR 2026(Oral) | `[I]` | Pattern-aware Reasoning, HydraFake Dataset | [Github](https://github.com/EricTan7/Veritas) |
+| [VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning MLLMs and RL](https://arxiv.org/abs/2510.02282) | ICLR 2026 | `[V]` | Multi-stage RL, Video Detection Dataset | [GitHub](https://github.com/kyoungjunpark/VidGuard-R1) |
 | [FakeXplain: AI-Generated Image Detection via Human-Aligned Grounded Reasoning](https://arxiv.org/pdf/2506.07045) | ICLR 2026 | `[I]` | Grounded Reasoning, Human-annotated Dataset | N/A |
 | [AlignGemini: Generalizable AI-Generated Image Detection Through Task-Model Alignment](https://arxiv.org/pdf/2512.06746) | Arxiv 2026 | `[I]` | Decoupling (Semantic & Pixel), AIGI-Now Dataset | N/A |
 | [Zoom-In to Sort AI-Generated Images Out](https://arxiv.org/pdf/2510.04225) | ICLR 2026 | `[I]` | Thinking with Images, MagniFake Dataset | N/A |
@@ -138,6 +140,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [Zooming In on Fakes: A Novel Dataset for Localized AI-Generated Image Detection with Forgery Amplification Approach](https://arxiv.org/abs/2504.11922) | AAAI 2026 | `[I]` | Localized AIGC Detection, Forgery Amplification, Scene-aware Local Forgery | [GitHub](https://github.com/clpbc/BR-Gen) |
 | [Preserving Forgery Artifacts: AI-Generated Video Detection at Native Scale](https://openreview.net/pdf?id=XD43lfRCg6) | ICLR 2026 | `[V]` | Native scale video processing, Massive realistic video dataset, Preserves subtle generation artifacts | N/A |
 | [Generalizable and Adaptive Continual Learning Framework for AI-generated Image Detection](https://arxiv.org/pdf/2601.05580) | TMM 2026 | `[I]` | Continual Learning, Kronecker-Factored Approximate Curvature | N/A |
 | [Simplicity Prevails: The Emergence of Generalizable AIGI Detection in Visual Foundation Models](https://arxiv.org/pdf/2602.01738) | Arxiv 2026 | `[I]` | Linear Probe, Vision Foundation Models, Emergent Forensic Capability | N/A |

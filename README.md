@@ -22,6 +22,8 @@ A curated collection of the latest research and resources on AI-Generated Image 
 ---
 
 ## 🔥 Hot Events
+- [炸裂！技术力究极恐怖！米哈游蔡浩宇首款AI生成视频大模型LPM1.0曝光！自定义虚拟角色？支持多语言+无限真实+无限时长，实现自由对话、唱歌、表演等效果](https://www.bilibili.com/video/BV12SQwBEEZd/?vd_source=dc916dd94382a611d2fc7ba992618065)
+
 - [⭐️ 刚刚，阿里官方认领神秘「欢乐马」(HappyHorse)，来自ATH郑波团队](https://weibo.com/8214551477/5286126636237040)
 
 - [就AI换脸合成、影视素材魔改等，中广联演员委员会发声明](https://m.thepaper.cn/newsDetail_forward_32880368)

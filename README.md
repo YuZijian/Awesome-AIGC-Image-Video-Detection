@@ -186,10 +186,11 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Competition | Link | Year | Info |
 | :---------- | :--- | :--- | :--- |
-| Robust AIGC Detection | [NTIRE 2026 Robust AI-Generated Image Detection in the Wild](https://www.codabench.org/competitions/12761/#/pages-tab) | 2026 | 1. No restrictions on training data. <br> 2. Evaluate ROC AUC metrics on robust samples. |
+| Robust AIGC Detection | [NTIRE 2026 Robust AI-Generated Image Detection in the Wild](https://www.codabench.org/competitions/12761/#/pages-tab) | 2026 | No restrictions on training data. <br> Evaluate ROC AUC metrics on robust samples. |
 | Robust Deepfake Detection | [NTIRE 2026 Robust Deepfake Detection Challenge](https://www.codabench.org/competitions/12795/) | 2026 | No restrictions on training data. |
+| The 6th Face Anti-spoofing Challenge | [The 6th Face Anti-Spoofing: Unified Physical-Digital Attacks Detection@ICCV2025](https://codalab.lisn.upsaclay.fr/competitions/22915) | 2025 | No external data or pre-trained models allowed. <br> Limited to a single DL model with under 100G FLOPs. |
 | Detect AI vs. Human-Generated Images | [2025 Women in AI (WAI) Kaggle Challenge](https://www.kaggle.com/competitions/detect-ai-vs-human-generated-images) | 2025 | Paired dataset of authentic and AI-generated images |
-| Face Anti-spoofing Challenge | [5th Chalearn Face Anti-spoofing Workshop and Challenge@CVPR2024](https://sites.google.com/view/face-anti-spoofing-challenge/welcome/challengecvpr2024) | 2024 | UniAttackData+ for unified physical and digital attack detection. |
+| The 5th Face Anti-spoofing Challenge | [5th Chalearn Face Anti-spoofing Workshop and Challenge@CVPR2024](https://sites.google.com/view/face-anti-spoofing-challenge/welcome/challengecvpr2024) | 2024 | UniAttackData+ for unified physical and digital attack detection. |
 
 ⬆ [Back to Top](#contents)
 
